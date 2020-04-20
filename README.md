@@ -3,7 +3,9 @@ In this code I will attempt to develop a model that uses environmental variables
 
 The files and scripts needed are: 
 
+
 THE FOLLOWING 3 SCRIPTS SHOULD BE RUN IN ORDER TO REPLICATE RESULTS
+- Each are run using python 3
 - Einarsson_DAnalysis_Prelim_895Project.ipynb
   - This script cleans up and pools the data from the various sources used. Sources are explained below and in the script.
 - Einarsson_Plotting_Mapping.ipynb
