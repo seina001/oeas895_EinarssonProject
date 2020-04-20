@@ -23,7 +23,7 @@ Data files needed:
 
 The data used from other sources include fluorometric and log data from R2R: 
 https://www.rvdata.us/search/cruise/SKQ201713S
-The fluorometer data files used in this code are hosted on Dropbox:
+The fluorometer and NASA remote sensing data files used in this code are hosted on Dropbox:
 https://www.dropbox.com/sh/b3773gnsm2fx61b/AAD0XKkozEUIBjskAO6Jccpla?dl=0
 NOAA weather buoy data:
 https://www.ndbc.noaa.gov/view_text_file.php?filename=prda2h2017.txt.gz&dir=data/historical/stdmet/
