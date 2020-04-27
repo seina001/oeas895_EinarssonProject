@@ -10,7 +10,7 @@ THE FOLLOWING 3 SCRIPTS SHOULD BE RUN IN ORDER TO REPLICATE RESULTS
   - This script cleans up and pools the data from the various sources used. Sources are explained below and in the script.
 - Einarsson_Plotting_Mapping.ipynb
   - This script plots and visualizes the data to determine range and spatial distribution of the data collected.
-- Model_Einarsson.ipynb
+- Model_Einarsson_notNorm.ipynb
   - This script develops and tests a model to predict the ratio of diatoms to dinoflagellates using environmental variables.
 
 Data files needed:
